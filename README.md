@@ -1,2 +1,2 @@
-# Gest-o_Libertad
+# Gestao_Libertad
 Aplicativo para gerir e acompanhar projetos
